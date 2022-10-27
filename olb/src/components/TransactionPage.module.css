@@ -1,0 +1,76 @@
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+  }
+  h1{
+    color:white;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+  }
+  /* .input label {
+    display: table-cell;
+    font-weight:normal;
+    color:white;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+  }
+  
+  /* .input input[type="number"] {
+    font:icon;
+    display: block;
+    width: 40%;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+    margin-bottom: 0.5rem;
+    background-color: black;
+    color: white;
+  } */
+  
+  /* .input input:focus {
+    outline: none;
+    border-color: #0d9233;
+  }
+  select:focus{
+    border-color: #0d9233;
+  }
+   .checkbox,.date,.category{
+    display:flex;
+  } */ 
+
+  /* input[type="number"]{
+    width: 37%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+  } */
+  /* input[type="date"]{
+    width: 37%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+  } */
+/* .date label{
+  width: 41%;
+    margin-left: 1.25%;
+    padding-top: 4.4%;
+}
+.amount label{
+  width: 15%;
+  margin-top: 4%;
+  margin-left: 23.3%;
+}
+.category label{
+  width: 15%;
+  margin-top: 4%;
+  margin-left: 23.3%;
+} */
